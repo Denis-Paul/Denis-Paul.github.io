@@ -1,5 +1,3 @@
-<img src="/assets/images/logo.png" alt="Denis Paul" style="width: 120px; border-radius: 50%; margin-bottom: 20px;">
-
 # Denis Paul
 **Full-Stack Developer**  
 📍 Timișoara, Romania | [LinkedIn](https://www.linkedin.com/in/denis-n-paul) | 📧 paul_denis100@yahoo.com  
