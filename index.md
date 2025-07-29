@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Denis-Paul CV"
 ---
 
 <img src="/assets/images/logo.png" alt="Denis Paul" style="width: 120px; border-radius: 50%; margin-bottom: 20px;">
