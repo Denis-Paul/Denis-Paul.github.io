@@ -1,4 +1,4 @@
-**Ruby on Rails Developer | Full-Stack Developer | Contractor**
+**Ruby on Rails Developer** | **Full-Stack Developer** | **Contractor**
 
 📍 Timișoara, Romania | [LinkedIn](https://www.linkedin.com/in/denis-n-paul) | 📧 paul_denis100@yahoo.com
 
