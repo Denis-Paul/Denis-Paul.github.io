@@ -2,7 +2,7 @@
 
 📍 Timișoara, Romania | [LinkedIn](https://www.linkedin.com/in/denis-n-paul) | 📧 paul_denis100@yahoo.com
 
-  [📄 Download PDF Version](assets/Denis-Paul-CV-2025.pdf)
+  [📄 Download PDF Version](assets/Denis-Paul-CV-8-2025.pdf)
 
 ---
 
