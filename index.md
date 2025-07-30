@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Profile
 
-Versatile software developer with 7+ years of experience in web development, specializing in **Ruby on Rails** (4.5+ years) and **C# .NET** (3 years). Proficient in software development, debugging, and testing. Skilled at comprehending and converting user requirements into functional features. In addition to back-end expertise, well-versed in front-end development, with experience building and enhancing user interfaces across various projects. Highly effective in team collaboration, ensuring the delivery of quality results within established deadlines. Always eager to learn new things and expand my skillset.
+Versatile software developer with 8 years of experience in web development, specializing in **Ruby on Rails** (4.5+ years) and **C# .NET** (3 years). Proficient in software development, debugging, and testing. Skilled at comprehending and converting user requirements into functional features. In addition to back-end expertise, well-versed in front-end development, with experience building and enhancing user interfaces across various projects. Highly effective in team collaboration, ensuring the delivery of quality results within established deadlines. Always eager to learn new things and expand my skillset.
 
 ---
 
